@@ -1,8 +1,4 @@
 # deeraj_1746
-Below is a complete, well-formatted project description for your C program, including **project title**, **abstract**, **project features**, and **sample screenshots (ASCII-style)** since I cannot generate actual images from the console output.
-
----
-
 # **📌 Project Title**
 
 ## **Client Management System in C (Using Structures & Functions)**
